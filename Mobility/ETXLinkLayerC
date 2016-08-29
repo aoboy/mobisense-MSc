@@ -1,0 +1,6 @@
+configuration ETXLinkLayerC{
+ provides{
+   interface LinkLayer;
+ }
+}
+
